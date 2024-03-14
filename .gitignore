@@ -1,0 +1,8 @@
+# Pycharm specific files
+.idea/
+
+# Eenviroment
+venv/
+
+# Persistance data
+#data/
